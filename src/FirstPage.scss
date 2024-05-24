@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+.input-parent-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.input-container {
+    background-color: #3D4B6D;
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
